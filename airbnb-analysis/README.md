@@ -34,8 +34,7 @@ This project uses Airbnb listing data from **Inside Airbnb**, an open-data sourc
 - File used: `listings.csv.gz`
 - Dataset includes variables such as price, room type, neighborhood, bedrooms, bathrooms, reviews, amenities, location coordinates, and listing descriptions.
 
-> Replace this section with your exact city, for example:  
-> **City used:** New York City / Chicago / Los Angeles / whichever you chose.
+**City used:** Columbus OH
 
 ---
 
