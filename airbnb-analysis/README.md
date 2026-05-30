@@ -7,6 +7,14 @@ The main goal was to explore how listing characteristics such as location, room 
 
 ---
 
+**##Trouble Shooting**
+GitHub may temporarily fail to preview `.ipynb` notebooks because of GitHub's notebook renderer. If the notebook preview does not load, use the Raw file, download the notebook, or open it in Google Colab.
+
+## Files
+- `Project_2_Airbnb_Listings.ipynb` — main analysis notebook
+- `listings.csv` — dataset
+- `Map.pdf` — map reference image
+
 ## Objectives
 - Explore patterns in Airbnb listing prices
 - Identify important features related to price
