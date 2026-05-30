@@ -7,7 +7,8 @@ The main goal was to explore how listing characteristics such as location, room 
 
 ---
 
-Trouble Shooting
+Trouble Shooting:
+
 GitHub may temporarily fail to preview `.ipynb` notebooks because of GitHub's notebook renderer. If the notebook preview does not load, use the Raw file, download the notebook, or open it in Google Colab.
 
 Files
