@@ -6,6 +6,12 @@ This project analyzes historical stock market data to understand price behavior,
 
 The main goal was to explore how stock prices move over time using indicators such as moving averages, Bollinger Bands, RSI, volatility, and trading signals, and then apply statistical and machine learning methods to better understand performance, risk, and market behavior.
 
+
+Trouble Shooting:
+
+GitHub may temporarily fail to preview `.ipynb` notebooks because of GitHub's notebook renderer. If the notebook preview does not load, use the Raw file, download the notebook, or open it in Google Colab.
+
+
 ## Objectives
 
 * Explore historical stock price trends
